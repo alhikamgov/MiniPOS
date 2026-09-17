@@ -14,6 +14,13 @@
 
 Aplikasi kasir modern, ringan, dan mudah digunakan untuk toko kecil. Kelola produk, transaksi, stok, dan laporan dalam satu aplikasi.
 
+---
+
+### 📞 Pesan Aplikasi
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285117427423)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhikamadjid16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alhikamgov)
 </div>
 
 ---
@@ -59,8 +66,11 @@ Dibangun dengan **PHP Native** dan **MySQL**, aplikasi ini ringan, cepat, dan ti
 Sistem ini memiliki **2 role utama** dengan pembagian hak akses yang jelas.
 
 ### 🔴 1. Admin (Pemilik / Manajer)
-
 Role ini memiliki **akses penuh** terhadap seluruh modul aplikasi.
+
+<img width="540" height="300" alt="Manajemen Produk" src="https://github.com/user-attachments/assets/3661d31f-5f8c-4237-bbfc-76be1aead959" />
+<img width="540" height="300" alt="Riwayat Transaksi" src="https://github.com/user-attachments/assets/e9d84bd8-d0fc-4556-97f5-7dff37d93929" />
+<img width="540" height="300" alt="Laporan Transaksi" src="https://github.com/user-attachments/assets/c20899b0-1c0e-466d-a05f-39917d01d84c" />
 
 #### Fitur Admin:
 
@@ -112,8 +122,10 @@ Role ini memiliki **akses penuh** terhadap seluruh modul aplikasi.
 ---
 
 ### 🔵 2. Kasir (Operator)
-
 Role ini **dibatasi** pada transaksi penjualan dan laporan pribadi.
+
+<img width="540" height="300" alt="Transaksi Kasir" src="https://github.com/user-attachments/assets/688f1281-0cbf-4240-a24f-01b2c0a8191c" />
+<img width="540" height="300" alt="Riwayat Transaksi" src="https://github.com/user-attachments/assets/8039d256-5f68-43b0-9e58-b9d850d2ea69" />
 
 #### Fitur Kasir:
 
@@ -213,18 +225,9 @@ Role ini **dibatasi** pada transaksi penjualan dan laporan pribadi.
 - [ ] Notifikasi stok via WhatsApp
 
 ---
-
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan untuk keperluan pribadi maupun komersial.
-
----
-
-## 👨‍💻 Developer
-
-**Nama Anda**
-- GitHub: [@alhikamgov](https://github.com/alhikamgov)
-- Email: [alhikamadjid16@gmail.com]
 
 ---
 
@@ -237,5 +240,7 @@ Terima kasih kepada semua pihak yang telah mendukung pengembangan MiniPOS.
 <div align="center">
 
 ⭐ Jika proyek ini bermanfaat, berikan **star** di GitHub! ⭐
+
+</div>
 
 </div>
